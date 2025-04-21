@@ -1,8 +1,8 @@
 # Land-Agriculture_FSD
 # INTRODUCTIN: 
-              Car rental website, designed to provide hassle-free vehicle Rental services to our customers.
-              Whether you're planning a weekend getaway, a Business trip, or simply need a temporary ride, 
-              our platform offers a diverse range of Vehicles to suit your needs.
+             Farming is the prime Occupation in india , nowadays each and everyone are involved in farming system
+              E-farming system will help Indian farmers to make the effective cultivation by providing up-to-date
+              information to farmers.
 # USE :
         HTML/CSS
         Javascrip
